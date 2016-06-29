@@ -8,7 +8,6 @@ INDEX VERSION 1.129+C:\Users\Neues Konto\Documents\GitHub\ML1\.metadata\.plugins
 3509523518.index
 2448071419.index
 1753522414.index
-1076828742.index
 2899712255.index
 1656417267.index
 3234117647.index
