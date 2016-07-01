@@ -18,6 +18,7 @@ public class ConnectionClass {
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(url.openConnection().getInputStream()))) {
 		    String line = null;
 		    while (null != (line = br.readLine())) {
+		    	System.out.println(line);
 		        line = line.trim();
 		        if (!line.startsWith("|")
 		                && !line.startsWith("{")
@@ -25,7 +26,6 @@ public class ConnectionClass {
 		                && !line.startsWith("<center>")
 		                && !line.startsWith("---")) {
 		            text += line;
-		            System.out.println(text);
 		        }
 		        if (text.length() > 200) {
 		            break;
@@ -39,7 +39,7 @@ public class ConnectionClass {
 	public static void main(String[] args) {
 		ConnectionClass conn = new ConnectionClass();
 		try {
-			System.out.println(conn.getShortDescription("DATEV"));
+			System.out.println(conn.getShortDescription("Apple"));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
