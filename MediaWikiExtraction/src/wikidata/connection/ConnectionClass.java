@@ -33,13 +33,20 @@ public class ConnectionClass {
 		    }
 		}
 		System.out.println("text = " + text);
+		if (text.contains("#REDIRECT")) {
+			
+			String[] query = text.split("\\s*#+\\s");
+			System.out.println(query[0]);
+			
+			System.out.println("REDIRECTION");
+		}
 		return text;
 	}
 	
 	public static void main(String[] args) {
 		ConnectionClass conn = new ConnectionClass();
 		try {
-			System.out.println(conn.getShortDescription("Apple"));
+			System.out.println(conn.getShortDescription("Westfalenbus"));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

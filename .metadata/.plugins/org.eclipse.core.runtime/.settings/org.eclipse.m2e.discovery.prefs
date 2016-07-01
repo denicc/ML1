@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-org.eclipse.m2e.discovery.pref.projects=
+org.eclipse.m2e.discovery.pref.projects=uimafit-core;uimafit-examples;uimafit-docbook;uimafit-maven-plugin;uimafit-parent;uimafit-spring;uimafit;uimafit-legacy-support;uimafit-cpe;

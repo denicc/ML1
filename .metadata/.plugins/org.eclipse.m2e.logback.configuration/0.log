@@ -1,0 +1,877 @@
+2016-07-01 17:12:44,120 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/uima/parent-pom/10/parent-pom-10.pom
+2016-07-01 17:12:44,558 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/uima/parent-pom/10/parent-pom-10.pom
+2016-07-01 17:12:47,376 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.3.1/maven-enforcer-plugin-1.3.1.pom
+2016-07-01 17:12:47,407 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.3.1/maven-enforcer-plugin-1.3.1.pom
+2016-07-01 17:12:47,439 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/1.3.1/enforcer-1.3.1.pom
+2016-07-01 17:12:47,551 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/1.3.1/enforcer-1.3.1.pom
+2016-07-01 17:12:47,707 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.3.1/maven-enforcer-plugin-1.3.1.jar
+2016-07-01 17:12:48,390 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.3.1/maven-enforcer-plugin-1.3.1.jar
+2016-07-01 17:12:48,953 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.8/build-helper-maven-plugin-1.8.pom
+2016-07-01 17:12:48,984 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.8/build-helper-maven-plugin-1.8.pom
+2016-07-01 17:12:49,000 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/30/mojo-parent-30.pom
+2016-07-01 17:12:49,031 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/30/mojo-parent-30.pom
+2016-07-01 17:12:49,125 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.8/build-helper-maven-plugin-1.8.jar
+2016-07-01 17:12:49,291 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.8/build-helper-maven-plugin-1.8.jar
+2016-07-01 17:12:49,639 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/uima/uima-build-helper-maven-plugin/7/uima-build-helper-maven-plugin-7.pom
+2016-07-01 17:12:49,795 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/uima/uima-build-helper-maven-plugin/7/uima-build-helper-maven-plugin-7.pom
+2016-07-01 17:12:50,045 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/uima/uima-build-helper-maven-plugin/7/uima-build-helper-maven-plugin-7.jar
+2016-07-01 17:12:50,233 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/uima/uima-build-helper-maven-plugin/7/uima-build-helper-maven-plugin-7.jar
+2016-07-01 17:12:50,483 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
+2016-07-01 17:12:50,530 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
+2016-07-01 17:12:50,577 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+2016-07-01 17:12:50,686 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+2016-07-01 17:12:50,733 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
+2016-07-01 17:12:50,780 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
+2016-07-01 17:12:50,998 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom
+2016-07-01 17:12:51,030 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom
+2016-07-01 17:12:51,061 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2016-07-01 17:12:51,108 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2016-07-01 17:12:51,358 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.apache.uima:uimafit:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\pom.xml.
+2016-07-01 17:12:52,554 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-core/2.8.1/uimaj-core-2.8.1.pom
+2016-07-01 17:12:52,882 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-core/2.8.1/uimaj-core-2.8.1.pom
+2016-07-01 17:12:52,976 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-core/2.8.1/uimaj-core-2.8.1.pom
+2016-07-01 17:12:53,241 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-parent/2.8.1/uimaj-parent-2.8.1.pom
+2016-07-01 17:12:53,288 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-parent/2.8.1/uimaj-parent-2.8.1.pom
+2016-07-01 17:12:53,351 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-parent/2.8.1/uimaj-parent-2.8.1.pom
+2016-07-01 17:12:53,429 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-core/3.2.16.RELEASE/spring-core-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,460 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-core/3.2.16.RELEASE/spring-core-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,507 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-core/3.2.16.RELEASE/spring-core-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,554 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2016-07-01 17:12:53,569 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2016-07-01 17:12:53,648 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2016-07-01 17:12:53,788 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,804 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,851 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,882 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-aop/3.2.16.RELEASE/spring-aop-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,898 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aop/3.2.16.RELEASE/spring-aop-3.2.16.RELEASE.pom
+2016-07-01 17:12:53,944 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aop/3.2.16.RELEASE/spring-aop-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,023 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-beans/3.2.16.RELEASE/spring-beans-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,054 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-beans/3.2.16.RELEASE/spring-beans-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,085 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-beans/3.2.16.RELEASE/spring-beans-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,116 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-expression/3.2.16.RELEASE/spring-expression-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,148 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-expression/3.2.16.RELEASE/spring-expression-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,179 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-expression/3.2.16.RELEASE/spring-expression-3.2.16.RELEASE.pom
+2016-07-01 17:12:54,335 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-cpe/2.8.1/uimaj-cpe-2.8.1.pom
+2016-07-01 17:12:54,351 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-cpe/2.8.1/uimaj-cpe-2.8.1.pom
+2016-07-01 17:12:54,382 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-cpe/2.8.1/uimaj-cpe-2.8.1.pom
+2016-07-01 17:12:54,569 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-adapter-vinci/2.8.1/uimaj-adapter-vinci-2.8.1.pom
+2016-07-01 17:12:54,585 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-adapter-vinci/2.8.1/uimaj-adapter-vinci-2.8.1.pom
+2016-07-01 17:12:54,679 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-adapter-vinci/2.8.1/uimaj-adapter-vinci-2.8.1.pom
+2016-07-01 17:12:54,898 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/jVinci/2.8.1/jVinci-2.8.1.pom
+2016-07-01 17:12:54,929 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/jVinci/2.8.1/jVinci-2.8.1.pom
+2016-07-01 17:12:54,991 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/jVinci/2.8.1/jVinci-2.8.1.pom
+2016-07-01 17:12:55,069 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/junit/junit/4.12/junit-4.12.pom
+2016-07-01 17:12:55,085 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.pom
+2016-07-01 17:12:55,116 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.pom
+2016-07-01 17:12:55,507 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-core/2.8.1/uimaj-core-2.8.1.jar
+2016-07-01 17:12:55,538 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-core/3.2.16.RELEASE/spring-core-3.2.16.RELEASE.jar
+2016-07-01 17:12:55,569 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+2016-07-01 17:12:55,601 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.jar
+2016-07-01 17:12:55,632 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-aop/3.2.16.RELEASE/spring-aop-3.2.16.RELEASE.jar
+2016-07-01 17:12:55,663 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-expression/3.2.16.RELEASE/spring-expression-3.2.16.RELEASE.jar
+2016-07-01 17:12:55,694 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-beans/3.2.16.RELEASE/spring-beans-3.2.16.RELEASE.jar
+2016-07-01 17:12:55,851 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-cpe/2.8.1/uimaj-cpe-2.8.1.jar
+2016-07-01 17:12:56,008 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-adapter-vinci/2.8.1/uimaj-adapter-vinci-2.8.1.jar
+2016-07-01 17:12:56,153 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/jVinci/2.8.1/jVinci-2.8.1.jar
+2016-07-01 17:12:56,185 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/junit/junit/4.12/junit-4.12.jar
+2016-07-01 17:12:56,216 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2016-07-01 17:12:56,325 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-core/2.8.1/uimaj-core-2.8.1.jar
+2016-07-01 17:12:56,554 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-core/2.8.1/uimaj-core-2.8.1.jar
+2016-07-01 17:12:56,554 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-core/3.2.16.RELEASE/spring-core-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,679 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-core/3.2.16.RELEASE/spring-core-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,695 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+2016-07-01 17:12:56,710 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+2016-07-01 17:12:56,726 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,820 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-context/3.2.16.RELEASE/spring-context-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,835 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-aop/3.2.16.RELEASE/spring-aop-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,882 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-aop/3.2.16.RELEASE/spring-aop-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,898 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-expression/3.2.16.RELEASE/spring-expression-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,929 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-expression/3.2.16.RELEASE/spring-expression-3.2.16.RELEASE.jar
+2016-07-01 17:12:56,945 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-beans/3.2.16.RELEASE/spring-beans-3.2.16.RELEASE.jar
+2016-07-01 17:12:57,023 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-beans/3.2.16.RELEASE/spring-beans-3.2.16.RELEASE.jar
+2016-07-01 17:12:57,038 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-cpe/2.8.1/uimaj-cpe-2.8.1.jar
+2016-07-01 17:12:57,085 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-cpe/2.8.1/uimaj-cpe-2.8.1.jar
+2016-07-01 17:12:57,101 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-adapter-vinci/2.8.1/uimaj-adapter-vinci-2.8.1.jar
+2016-07-01 17:12:57,117 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-adapter-vinci/2.8.1/uimaj-adapter-vinci-2.8.1.jar
+2016-07-01 17:12:57,132 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/jVinci/2.8.1/jVinci-2.8.1.jar
+2016-07-01 17:12:57,163 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/jVinci/2.8.1/jVinci-2.8.1.jar
+2016-07-01 17:12:57,179 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
+2016-07-01 17:12:57,226 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
+2016-07-01 17:12:57,242 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2016-07-01 17:12:57,445 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2016-07-01 17:13:06,375 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.pom
+2016-07-01 17:13:06,557 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.pom
+2016-07-01 17:13:06,588 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/1.4.1/enforcer-1.4.1.pom
+2016-07-01 17:13:06,635 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/1.4.1/enforcer-1.4.1.pom
+2016-07-01 17:13:06,667 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2016-07-01 17:13:06,745 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2016-07-01 17:13:06,792 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.jar
+2016-07-01 17:13:06,874 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.jar
+2016-07-01 17:13:07,605 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2016-07-01 17:13:07,683 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2016-07-01 17:13:07,980 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-plugin/1.5/gmaven-plugin-1.5.jar
+2016-07-01 17:13:08,012 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-plugin/1.5/gmaven-plugin-1.5.jar
+2016-07-01 17:13:08,418 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2016-07-01 17:13:08,527 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2016-07-01 17:13:08,746 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/uima/jcasgen-maven-plugin/2.8.1/jcasgen-maven-plugin-2.8.1.jar
+2016-07-01 17:13:08,934 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/uima/jcasgen-maven-plugin/2.8.1/jcasgen-maven-plugin-2.8.1.jar
+2016-07-01 17:13:09,951 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.jar
+2016-07-01 17:13:10,286 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.jar
+2016-07-01 17:13:11,325 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.7/maven-antrun-plugin-1.7.jar
+2016-07-01 17:13:11,890 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.7/maven-antrun-plugin-1.7.jar
+2016-07-01 17:13:12,732 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.1/maven-install-plugin-2.5.1.jar
+2016-07-01 17:13:12,826 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.1/maven-install-plugin-2.5.1.jar
+2016-07-01 17:13:13,170 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2016-07-01 17:13:13,264 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2016-07-01 17:13:18,343 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2016-07-01 17:13:18,515 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2016-07-01 17:13:18,530 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2016-07-01 17:13:18,577 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2016-07-01 17:13:18,593 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2016-07-01 17:13:18,671 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2016-07-01 17:13:18,687 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2016-07-01 17:13:18,718 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2016-07-01 17:13:18,734 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2016-07-01 17:13:18,843 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2016-07-01 17:13:18,859 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2016-07-01 17:13:18,952 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2016-07-01 17:13:18,968 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2016-07-01 17:13:19,218 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2016-07-01 17:13:19,249 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2016-07-01 17:13:19,327 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2016-07-01 17:13:19,359 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2016-07-01 17:13:19,452 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2016-07-01 17:13:19,468 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2016-07-01 17:13:19,499 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2016-07-01 17:13:19,515 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2016-07-01 17:13:19,562 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2016-07-01 17:13:19,577 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2016-07-01 17:13:19,656 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2016-07-01 17:13:19,671 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2016-07-01 17:13:19,702 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2016-07-01 17:13:19,765 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2016-07-01 17:13:19,999 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2016-07-01 17:13:20,015 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+2016-07-01 17:13:20,187 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+2016-07-01 17:13:30,042 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-core:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\pom.xml.
+2016-07-01 17:13:30,184 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-test/3.2.16.RELEASE/spring-test-3.2.16.RELEASE.pom
+2016-07-01 17:13:30,220 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-test/3.2.16.RELEASE/spring-test-3.2.16.RELEASE.pom
+2016-07-01 17:13:30,269 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-test/3.2.16.RELEASE/spring-test-3.2.16.RELEASE.pom
+2016-07-01 17:13:30,316 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2016-07-01 17:13:30,332 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2016-07-01 17:13:30,363 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2016-07-01 17:13:30,441 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/springframework/spring-test/3.2.16.RELEASE/spring-test-3.2.16.RELEASE.jar
+2016-07-01 17:13:30,472 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2016-07-01 17:13:30,519 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/springframework/spring-test/3.2.16.RELEASE/spring-test-3.2.16.RELEASE.jar
+2016-07-01 17:13:30,566 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/springframework/spring-test/3.2.16.RELEASE/spring-test-3.2.16.RELEASE.jar
+2016-07-01 17:13:30,597 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2016-07-01 17:13:30,754 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2016-07-01 17:13:32,043 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-examples:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-examples\pom.xml.
+2016-07-01 17:13:32,208 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-spring:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\pom.xml.
+2016-07-01 17:13:32,255 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-invoker-plugin/1.8/maven-invoker-plugin-1.8.pom
+2016-07-01 17:13:32,302 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-invoker-plugin/1.8/maven-invoker-plugin-1.8.pom
+2016-07-01 17:13:32,333 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+2016-07-01 17:13:32,380 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+2016-07-01 17:13:32,412 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-invoker-plugin/1.8/maven-invoker-plugin-1.8.jar
+2016-07-01 17:13:32,458 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-invoker-plugin/1.8/maven-invoker-plugin-1.8.jar
+2016-07-01 17:13:32,646 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.3/maven-plugin-plugin-3.3.pom
+2016-07-01 17:13:32,693 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.3/maven-plugin-plugin-3.3.pom
+2016-07-01 17:13:32,771 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools-3.3.pom
+2016-07-01 17:13:32,833 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools-3.3.pom
+2016-07-01 17:13:32,958 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.3/maven-plugin-plugin-3.3.jar
+2016-07-01 17:13:33,167 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugin-plugin/3.3/maven-plugin-plugin-3.3.jar
+2016-07-01 17:13:33,635 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.uima:uimafit-maven-plugin:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-maven-plugin\pom.xml.
+2016-07-01 17:13:34,002 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2016-07-01 17:13:34,033 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2016-07-01 17:13:34,064 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2016-07-01 17:13:34,189 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2016-07-01 17:13:34,220 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2016-07-01 17:13:34,299 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2016-07-01 17:13:34,361 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2016-07-01 17:13:34,377 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2016-07-01 17:13:34,424 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+2016-07-01 17:13:34,470 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2016-07-01 17:13:34,502 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2016-07-01 17:13:34,564 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+2016-07-01 17:13:34,705 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2016-07-01 17:13:34,720 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2016-07-01 17:13:34,767 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom
+2016-07-01 17:13:34,814 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/com/google/guava/guava/11.0.1/guava-11.0.1.pom
+2016-07-01 17:13:34,845 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/google/guava/guava/11.0.1/guava-11.0.1.pom
+2016-07-01 17:13:34,877 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/google/guava/guava/11.0.1/guava-11.0.1.pom
+2016-07-01 17:13:34,939 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/com/google/guava/guava-parent/11.0.1/guava-parent-11.0.1.pom
+2016-07-01 17:13:34,970 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/google/guava/guava-parent/11.0.1/guava-parent-11.0.1.pom
+2016-07-01 17:13:35,017 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/google/guava/guava-parent/11.0.1/guava-parent-11.0.1.pom
+2016-07-01 17:13:35,252 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar
+2016-07-01 17:13:35,377 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2016-07-01 17:13:35,408 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2016-07-01 17:13:35,439 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2016-07-01 17:13:35,627 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/com/google/guava/guava/11.0.1/guava-11.0.1.jar
+2016-07-01 17:13:35,689 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar
+2016-07-01 17:13:35,767 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/javassist/javassist/3.19.0-GA/javassist-3.19.0-GA.jar
+2016-07-01 17:13:35,783 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2016-07-01 17:13:35,892 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2016-07-01 17:13:35,892 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2016-07-01 17:13:35,939 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+2016-07-01 17:13:35,971 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2016-07-01 17:13:36,002 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar
+2016-07-01 17:13:36,017 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/google/guava/guava/11.0.1/guava-11.0.1.jar
+2016-07-01 17:13:36,221 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/google/guava/guava/11.0.1/guava-11.0.1.jar
+2016-07-01 17:13:38,696 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-legacy-support:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\pom.xml.
+2016-07-01 17:13:38,852 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/uimafit/uimafit/1.4.0/uimafit-1.4.0.pom
+2016-07-01 17:13:38,899 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/uimafit/uimafit/1.4.0/uimafit-1.4.0.pom
+2016-07-01 17:13:38,977 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/uimafit/uimafit/1.4.0/uimafit-1.4.0.pom
+2016-07-01 17:13:39,165 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/uimafit/uimafit-parent/1.4.0/uimafit-parent-1.4.0.pom
+2016-07-01 17:13:39,212 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/uimafit/uimafit-parent/1.4.0/uimafit-parent-1.4.0.pom
+2016-07-01 17:13:39,321 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/uimafit/uimafit-parent/1.4.0/uimafit-parent-1.4.0.pom
+2016-07-01 17:13:39,462 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-tools/2.8.1/uimaj-tools-2.8.1.pom
+2016-07-01 17:13:39,493 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-tools/2.8.1/uimaj-tools-2.8.1.pom
+2016-07-01 17:13:39,540 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-tools/2.8.1/uimaj-tools-2.8.1.pom
+2016-07-01 17:13:39,696 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/uimafit/uimafit/1.4.0/uimafit-1.4.0.jar
+2016-07-01 17:13:39,821 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/eclipse/org/apache/uima/uimaj-tools/2.8.1/uimaj-tools-2.8.1.jar
+2016-07-01 17:13:39,868 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/uimafit/uimafit/1.4.0/uimafit-1.4.0.jar
+2016-07-01 17:13:39,899 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/uimafit/uimafit/1.4.0/uimafit-1.4.0.jar
+2016-07-01 17:13:39,930 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/apache/uima/uimaj-tools/2.8.1/uimaj-tools-2.8.1.jar
+2016-07-01 17:13:40,087 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/uima/uimaj-tools/2.8.1/uimaj-tools-2.8.1.jar
+2016-07-01 17:13:40,680 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.apache.uima:uimafit-docbook:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-docbook\pom.xml.
+2016-07-01 17:13:40,837 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-cpe:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\pom.xml.
+2016-07-01 17:13:40,852 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.apache.uima:uimafit-parent:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-parent\pom.xml.
+2016-07-01 17:13:41,149 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-plugin/1.5/gmaven-plugin-1.5.pom
+2016-07-01 17:13:41,243 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-plugin/1.5/gmaven-plugin-1.5.pom
+2016-07-01 17:13:41,274 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven/1.5/gmaven-1.5.pom
+2016-07-01 17:13:41,321 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven/1.5/gmaven-1.5.pom
+2016-07-01 17:13:41,352 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2016-07-01 17:13:41,383 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2016-07-01 17:13:41,491 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.pom
+2016-07-01 17:13:41,522 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.16/maven-surefire-plugin-2.16.pom
+2016-07-01 17:13:41,584 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.16/surefire-2.16.pom
+2016-07-01 17:13:41,616 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.16/surefire-2.16.pom
+2016-07-01 17:13:41,662 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.7/maven-antrun-plugin-1.7.pom
+2016-07-01 17:13:41,694 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.7/maven-antrun-plugin-1.7.pom
+2016-07-01 17:13:42,756 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar
+2016-07-01 17:13:42,819 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar
+2016-07-01 17:13:42,850 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar
+2016-07-01 17:13:42,897 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.jar
+2016-07-01 17:13:42,912 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar
+2016-07-01 17:13:43,131 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jar
+2016-07-01 17:13:43,162 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar
+2016-07-01 17:13:43,256 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.jar
+2016-07-01 17:13:43,272 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar
+2016-07-01 17:13:43,303 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.jar
+2016-07-01 17:13:43,366 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar
+2016-07-01 17:13:43,428 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.jar
+2016-07-01 17:13:43,459 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar
+2016-07-01 17:13:43,578 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.jar
+2016-07-01 17:13:43,609 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+2016-07-01 17:13:43,656 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+2016-07-01 17:13:43,672 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2016-07-01 17:13:43,801 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2016-07-01 17:13:43,817 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar
+2016-07-01 17:13:43,848 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.jar
+2016-07-01 17:13:43,879 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar
+2016-07-01 17:13:43,895 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.jar
+2016-07-01 17:13:47,587 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/uima/jcasgen-maven-plugin/2.8.1/jcasgen-maven-plugin-2.8.1.pom
+2016-07-01 17:13:47,680 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/uima/jcasgen-maven-plugin/2.8.1/jcasgen-maven-plugin-2.8.1.pom
+2016-07-01 17:13:50,156 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.pom
+2016-07-01 17:13:50,187 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.pom
+2016-07-01 17:13:50,203 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0.3/maven-3.0.3.pom
+2016-07-01 17:13:50,265 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0.3/maven-3.0.3.pom
+2016-07-01 17:13:50,296 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.pom
+2016-07-01 17:13:50,343 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.pom
+2016-07-01 17:13:50,390 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.pom
+2016-07-01 17:13:50,406 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.pom
+2016-07-01 17:13:50,437 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.3/maven-artifact-3.0.3.pom
+2016-07-01 17:13:50,468 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.3/maven-artifact-3.0.3.pom
+2016-07-01 17:13:50,531 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/2.1.1/sisu-inject-plexus-2.1.1.pom
+2016-07-01 17:13:50,546 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/2.1.1/sisu-inject-plexus-2.1.1.pom
+2016-07-01 17:13:50,578 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/2.1.1/guice-plexus-2.1.1.pom
+2016-07-01 17:13:50,624 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/2.1.1/guice-plexus-2.1.1.pom
+2016-07-01 17:13:50,640 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/2.1.1/guice-bean-2.1.1.pom
+2016-07-01 17:13:50,671 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/2.1.1/guice-bean-2.1.1.pom
+2016-07-01 17:13:50,718 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/2.1.1/sisu-inject-2.1.1.pom
+2016-07-01 17:13:50,843 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/2.1.1/sisu-inject-2.1.1.pom
+2016-07-01 17:13:50,906 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/2.1.1/sisu-parent-2.1.1.pom
+2016-07-01 17:13:50,937 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/2.1.1/sisu-parent-2.1.1.pom
+2016-07-01 17:13:50,968 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/7/forge-parent-7.pom
+2016-07-01 17:13:50,999 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/7/forge-parent-7.pom
+2016-07-01 17:13:51,031 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+2016-07-01 17:13:51,062 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+2016-07-01 17:13:51,093 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.pom
+2016-07-01 17:13:51,109 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.pom
+2016-07-01 17:13:51,140 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4.pom
+2016-07-01 17:13:51,171 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4.pom
+2016-07-01 17:13:51,203 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/2.9.4/guice-parent-2.9.4.pom
+2016-07-01 17:13:51,234 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/2.9.4/guice-parent-2.9.4.pom
+2016-07-01 17:13:51,281 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.pom
+2016-07-01 17:13:51,343 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.pom
+2016-07-01 17:13:51,374 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.3/maven-settings-3.0.3.pom
+2016-07-01 17:13:51,406 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.3/maven-settings-3.0.3.pom
+2016-07-01 17:13:51,437 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.pom
+2016-07-01 17:13:51,453 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.pom
+2016-07-01 17:13:51,500 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.pom
+2016-07-01 17:13:51,531 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.pom
+2016-07-01 17:13:51,562 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.pom
+2016-07-01 17:13:51,578 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.pom
+2016-07-01 17:13:51,640 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.pom
+2016-07-01 17:13:51,656 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.pom
+2016-07-01 17:13:51,687 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.11/aether-api-1.11.pom
+2016-07-01 17:13:51,718 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.11/aether-api-1.11.pom
+2016-07-01 17:13:51,734 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.11/aether-parent-1.11.pom
+2016-07-01 17:13:51,765 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.11/aether-parent-1.11.pom
+2016-07-01 17:13:51,796 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.pom
+2016-07-01 17:13:51,843 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.pom
+2016-07-01 17:13:51,859 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.11/aether-util-1.11.pom
+2016-07-01 17:13:51,890 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.11/aether-util-1.11.pom
+2016-07-01 17:13:51,921 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.pom
+2016-07-01 17:13:51,937 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.pom
+2016-07-01 17:13:52,000 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.jar
+2016-07-01 17:13:52,142 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.jar
+2016-07-01 17:13:52,173 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.jar
+2016-07-01 17:13:52,189 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.jar
+2016-07-01 17:13:52,204 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.3/maven-artifact-3.0.3.jar
+2016-07-01 17:13:52,283 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.3/maven-artifact-3.0.3.jar
+2016-07-01 17:13:52,298 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/2.1.1/sisu-inject-plexus-2.1.1.jar
+2016-07-01 17:13:52,345 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/2.1.1/sisu-inject-plexus-2.1.1.jar
+2016-07-01 17:13:52,361 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.jar
+2016-07-01 17:13:52,423 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.jar
+2016-07-01 17:13:52,439 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4-no_aop.jar
+2016-07-01 17:13:52,501 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4-no_aop.jar
+2016-07-01 17:13:52,517 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.jar
+2016-07-01 17:13:52,595 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.jar
+2016-07-01 17:13:52,611 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.3/maven-settings-3.0.3.jar
+2016-07-01 17:13:52,705 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.3/maven-settings-3.0.3.jar
+2016-07-01 17:13:52,720 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.jar
+2016-07-01 17:13:52,835 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.jar
+2016-07-01 17:13:52,850 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.jar
+2016-07-01 17:13:52,929 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.jar
+2016-07-01 17:13:52,944 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.jar
+2016-07-01 17:13:53,022 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.jar
+2016-07-01 17:13:53,038 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.jar
+2016-07-01 17:13:53,054 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.jar
+2016-07-01 17:13:53,085 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.jar
+2016-07-01 17:13:53,225 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.jar
+2016-07-01 17:13:53,241 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.jar
+2016-07-01 17:13:53,272 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.jar
+2016-07-01 17:13:53,288 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.11/aether-api-1.11.jar
+2016-07-01 17:13:53,319 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.11/aether-api-1.11.jar
+2016-07-01 17:13:53,968 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.11/aether-util-1.11.jar
+2016-07-01 17:13:54,047 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.11/aether-util-1.11.jar
+2016-07-01 17:13:54,062 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar
+2016-07-01 17:13:54,234 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar
+2016-07-01 17:13:54,281 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+2016-07-01 17:13:54,531 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+2016-07-01 17:14:01,092 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:14:01,092 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:14:01,092 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:14:02,268 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:14:04,176 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2016-07-01 17:14:04,301 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2016-07-01 17:14:04,332 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/17/maven-shared-components-17.pom
+2016-07-01 17:14:04,363 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/17/maven-shared-components-17.pom
+2016-07-01 17:14:05,695 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.jar
+2016-07-01 17:14:05,742 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.jar
+2016-07-01 17:14:05,761 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.jar
+2016-07-01 17:14:05,819 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.6/maven-plugin-parameter-documenter-2.0.6.jar
+2016-07-01 17:14:05,838 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.jar
+2016-07-01 17:14:06,000 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.6/maven-error-diagnostics-2.0.6.jar
+2016-07-01 17:14:06,019 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.jar
+2016-07-01 17:14:06,107 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.jar
+2016-07-01 17:14:06,123 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.jar
+2016-07-01 17:14:06,772 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.jar
+2016-07-01 17:14:06,791 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.jar
+2016-07-01 17:14:06,843 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.jar
+2016-07-01 17:14:06,859 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2016-07-01 17:14:07,034 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2016-07-01 17:14:13,437 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/src/main/java
+2016-07-01 17:14:13,437 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/target/generated-sources/jcasgen
+2016-07-01 17:14:13,437 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-core/src/main/resources
+2016-07-01 17:14:13,468 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/src/test/java
+2016-07-01 17:14:13,468 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-core/src/test/resources
+2016-07-01 17:14:16,499 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-examples/src/main/java
+2016-07-01 17:14:16,499 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-examples/src/main/resources
+2016-07-01 17:14:16,531 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-examples/src/test/java
+2016-07-01 17:14:16,531 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-examples/src/test/resources
+2016-07-01 17:14:16,890 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-cpe/src/main/java
+2016-07-01 17:14:16,890 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-cpe/src/test/java
+2016-07-01 17:14:17,078 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:14:17,093 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:14:17,093 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:14:17,124 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:14:17,453 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/src/main/java
+2016-07-01 17:14:17,698 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/target/generated-sources/jcasgen
+2016-07-01 17:14:17,714 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/src/test/java
+2016-07-01 17:14:17,714 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-legacy-support/src/test/resources
+2016-07-01 17:14:17,964 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-spring/src/main/java
+2016-07-01 17:14:17,964 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-spring/src/test/java
+2016-07-01 17:14:18,120 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-maven-plugin/src/main/java
+2016-07-01 17:14:18,120 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-maven-plugin/src/main/resources
+2016-07-01 17:14:18,136 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-maven-plugin/src/test/java
+2016-07-01 17:14:18,136 [Worker-79] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-maven-plugin/src/test/resources
+2016-07-01 17:14:18,448 [Worker-79] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 9 project(s) in 96 sec
+2016-07-01 17:14:31,446 [Worker-81] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/NEUESK~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy8588888366215053208.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_7271782347717824592.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-07-01 17:14:31,446 [Worker-81] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-07-01 17:14:31,571 [Worker-81] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/NEUESK~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy8588888366215053208.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_7271782347717824592.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-07-01 17:14:31,571 [Worker-81] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-07-01 17:14:38,015 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
+2016-07-01 17:14:38,091 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
+2016-07-01 17:14:38,138 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0.4/maven-3.0.4.pom
+2016-07-01 17:14:38,232 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0.4/maven-3.0.4.pom
+2016-07-01 17:14:38,263 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/3.0-alpha-2/maven-project-3.0-alpha-2.pom
+2016-07-01 17:14:38,295 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/3.0-alpha-2/maven-project-3.0-alpha-2.pom
+2016-07-01 17:14:38,326 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0-alpha-2/maven-3.0-alpha-2.pom
+2016-07-01 17:14:38,341 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0-alpha-2/maven-3.0-alpha-2.pom
+2016-07-01 17:14:38,529 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0-alpha-2/maven-model-3.0-alpha-2.pom
+2016-07-01 17:14:38,576 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0-alpha-2/maven-model-3.0-alpha-2.pom
+2016-07-01 17:14:38,638 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.1/plexus-interpolation-1.1.pom
+2016-07-01 17:14:38,685 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.1/plexus-interpolation-1.1.pom
+2016-07-01 17:14:38,748 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0-alpha-2/maven-compat-3.0-alpha-2.pom
+2016-07-01 17:14:38,779 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0-alpha-2/maven-compat-3.0-alpha-2.pom
+2016-07-01 17:14:38,810 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-beta-3.0.5/plexus-container-default-1.0-beta-3.0.5.pom
+2016-07-01 17:14:38,841 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-beta-3.0.5/plexus-container-default-1.0-beta-3.0.5.pom
+2016-07-01 17:14:38,873 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-beta-3.0.5/plexus-containers-1.0-beta-3.0.5.pom
+2016-07-01 17:14:38,888 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-beta-3.0.5/plexus-containers-1.0-beta-3.0.5.pom
+2016-07-01 17:14:38,920 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/1.4/plexus-classworlds-1.4.pom
+2016-07-01 17:14:38,951 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/1.4/plexus-classworlds-1.4.pom
+2016-07-01 17:14:38,966 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.0/plexus-2.0.0.pom
+2016-07-01 17:14:39,045 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.0/plexus-2.0.0.pom
+2016-07-01 17:14:39,060 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2016-07-01 17:14:39,170 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2016-07-01 17:14:39,232 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2016-07-01 17:14:39,560 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2016-07-01 17:14:39,623 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2016-07-01 17:14:39,654 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2016-07-01 17:14:39,701 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/google-collections/google-collect/snapshot-20080530/google-collect-snapshot-20080530.pom
+2016-07-01 17:14:39,826 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/google-collections/google-collect/snapshot-20080530/google-collect-snapshot-20080530.pom
+2016-07-01 17:14:40,127 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.0-beta-3.0.5/plexus-component-annotations-1.0-beta-3.0.5.pom
+2016-07-01 17:14:40,191 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.0-beta-3.0.5/plexus-component-annotations-1.0-beta-3.0.5.pom
+2016-07-01 17:14:40,222 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-4/wagon-provider-api-1.0-beta-4.pom
+2016-07-01 17:14:40,284 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-4/wagon-provider-api-1.0-beta-4.pom
+2016-07-01 17:14:40,331 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-4/wagon-1.0-beta-4.pom
+2016-07-01 17:14:40,363 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-4/wagon-1.0-beta-4.pom
+2016-07-01 17:14:40,488 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/wstx-asl/3.2.6/wstx-asl-3.2.6.pom
+2016-07-01 17:14:40,566 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/wstx-asl/3.2.6/wstx-asl-3.2.6.pom
+2016-07-01 17:14:40,581 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.pom
+2016-07-01 17:14:40,613 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.pom
+2016-07-01 17:14:40,644 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/spice/model-builder/1.3/model-builder-1.3.pom
+2016-07-01 17:14:40,675 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/spice/model-builder/1.3/model-builder-1.3.pom
+2016-07-01 17:14:40,722 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project-builder/3.0-alpha-2/maven-project-builder-3.0-alpha-2.pom
+2016-07-01 17:14:40,753 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project-builder/3.0-alpha-2/maven-project-builder-3.0-alpha-2.pom
+2016-07-01 17:14:40,785 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
+2016-07-01 17:14:40,925 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
+2016-07-01 17:14:40,941 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/3.0-alpha-2/maven-project-3.0-alpha-2.jar
+2016-07-01 17:14:40,988 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/3.0-alpha-2/maven-project-3.0-alpha-2.jar
+2016-07-01 17:14:41,003 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.1/plexus-interpolation-1.1.jar
+2016-07-01 17:14:41,160 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.1/plexus-interpolation-1.1.jar
+2016-07-01 17:14:41,175 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0-alpha-2/maven-compat-3.0-alpha-2.jar
+2016-07-01 17:14:41,238 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0-alpha-2/maven-compat-3.0-alpha-2.jar
+2016-07-01 17:14:41,269 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-4/wagon-provider-api-1.0-beta-4.jar
+2016-07-01 17:14:41,316 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-4/wagon-provider-api-1.0-beta-4.jar
+2016-07-01 17:14:41,331 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-beta-3.0.5/plexus-container-default-1.0-beta-3.0.5.jar
+2016-07-01 17:14:41,378 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-beta-3.0.5/plexus-container-default-1.0-beta-3.0.5.jar
+2016-07-01 17:14:41,394 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2016-07-01 17:14:41,472 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2016-07-01 17:14:41,488 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2016-07-01 17:14:41,550 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2016-07-01 17:14:41,574 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/google-collections/google-collect/snapshot-20080530/google-collect-snapshot-20080530.jar
+2016-07-01 17:14:41,638 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/google-collections/google-collect/snapshot-20080530/google-collect-snapshot-20080530.jar
+2016-07-01 17:14:41,659 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/wstx-asl/3.2.6/wstx-asl-3.2.6.jar
+2016-07-01 17:14:41,725 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/wstx-asl/3.2.6/wstx-asl-3.2.6.jar
+2016-07-01 17:14:41,742 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
+2016-07-01 17:14:42,078 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
+2016-07-01 17:14:42,110 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/spice/model-builder/1.3/model-builder-1.3.jar
+2016-07-01 17:14:42,259 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/spice/model-builder/1.3/model-builder-1.3.jar
+2016-07-01 17:14:42,277 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project-builder/3.0-alpha-2/maven-project-builder-3.0-alpha-2.jar
+2016-07-01 17:14:42,308 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project-builder/3.0-alpha-2/maven-project-builder-3.0-alpha-2.jar
+2016-07-01 17:14:46,790 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:46,790 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:14:46,883 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:14:46,883 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:14:46,883 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:14:46,993 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Output going to 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\generated-sources\jcasgen'
+2016-07-01 17:14:47,008 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Reading the XML TAE descriptor, and creating types, for xml input file 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\jcasgen\typesystem.xml'.
+2016-07-01 17:14:47,024 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.AnalyzedText'.
+2016-07-01 17:14:47,040 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.AnalyzedText_Type'.
+2016-07-01 17:14:47,040 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Sentence'.
+2016-07-01 17:14:47,055 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Sentence_Type'.
+2016-07-01 17:14:47,055 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Token'.
+2016-07-01 17:14:47,071 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Token_Type'.
+2016-07-01 17:14:47,087 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:47,087 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-07-01 17:14:47,821 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:47,821 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\src\main\resources
+2016-07-01 17:14:47,837 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:47,837 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\src\test\resources
+2016-07-01 17:14:50,447 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:50,525 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:14:50,665 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:14:50,665 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:14:50,665 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:14:50,712 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:14:50,712 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:50,712 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-07-01 17:14:51,087 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:51,087 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2016-07-01 17:14:51,322 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:51,322 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:14:55,144 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:55,144 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\main\resources
+2016-07-01 17:14:55,190 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:14:55,190 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:14:55,190 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:14:55,206 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Output going to 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\generated-sources\jcasgen'
+2016-07-01 17:14:55,206 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Reading the XML TAE descriptor, and creating types, for xml input file 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\jcasgen\typesystem.xml'.
+2016-07-01 17:14:55,284 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.AnalyzedText'.
+2016-07-01 17:14:55,300 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.AnalyzedText_Type'.
+2016-07-01 17:14:55,300 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Sentence'.
+2016-07-01 17:14:55,315 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Sentence_Type'.
+2016-07-01 17:14:55,315 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Token'.
+2016-07-01 17:14:55,331 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Creating: 'org.apache.uima.fit.type.Token_Type'.
+2016-07-01 17:14:55,394 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:55,394 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2016-07-01 17:14:56,565 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:56,565 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:14:56,597 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:56,597 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:14:57,597 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:57,597 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\main\resources
+2016-07-01 17:14:57,690 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:14:57,690 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:14:57,706 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:14:57,722 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:14:57,722 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:57,722 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-01 17:14:58,520 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:58,520 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\src\main\resources
+2016-07-01 17:14:58,520 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:14:58,520 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\src\test\resources
+2016-07-01 17:15:46,405 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-01 17:15:46,405 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-07-01 17:23:53,402 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-07-01 17:24:00,942 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-core:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\pom.xml.
+2016-07-01 17:24:02,501 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-examples:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-examples\pom.xml.
+2016-07-01 17:24:02,532 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.apache.uima:uimafit-docbook:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-docbook\pom.xml.
+2016-07-01 17:24:02,874 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-maven-plugin:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-maven-plugin\pom.xml.
+2016-07-01 17:24:03,267 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.apache.uima:uimafit-parent:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-parent\pom.xml.
+2016-07-01 17:24:03,438 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-spring:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\pom.xml.
+2016-07-01 17:24:03,438 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.apache.uima:uimafit:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\pom.xml.
+2016-07-01 17:24:03,704 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-legacy-support:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\pom.xml.
+2016-07-01 17:24:03,970 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.uima:uimafit-cpe:2.3.0-SNAPSHOT @ C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\pom.xml.
+2016-07-01 17:24:07,503 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2016-07-01 17:24:07,831 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2016-07-01 17:24:07,956 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2016-07-01 17:24:08,065 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2016-07-01 17:24:08,112 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2016-07-01 17:24:08,159 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2016-07-01 17:24:08,300 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.pom
+2016-07-01 17:24:08,316 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.pom
+2016-07-01 17:24:08,347 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.1/maven-2.0.1.pom
+2016-07-01 17:24:08,528 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.1/maven-2.0.1.pom
+2016-07-01 17:24:08,772 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+2016-07-01 17:24:08,787 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+2016-07-01 17:24:08,819 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+2016-07-01 17:24:08,850 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+2016-07-01 17:24:08,928 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar
+2016-07-01 17:24:09,038 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar
+2016-07-01 17:24:09,069 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+2016-07-01 17:24:09,126 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+2016-07-01 17:24:10,054 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:24:10,054 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:24:10,054 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:24:10,523 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:24:10,523 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\generated-sources\jcasgen added.
+2016-07-01 17:24:10,836 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/src/main/java
+2016-07-01 17:24:10,851 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/target/generated-sources/jcasgen
+2016-07-01 17:24:10,851 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-core/src/main/resources
+2016-07-01 17:24:10,851 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/src/test/java
+2016-07-01 17:24:10,851 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-core/target/generated-sources/jcasgen
+2016-07-01 17:24:10,851 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-core/src/test/resources
+2016-07-01 17:24:10,976 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-examples/src/main/java
+2016-07-01 17:24:10,992 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-examples/src/main/resources
+2016-07-01 17:24:10,992 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-examples/src/test/java
+2016-07-01 17:24:10,992 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-examples/src/test/resources
+2016-07-01 17:24:11,086 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-maven-plugin/src/main/java
+2016-07-01 17:24:11,101 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-maven-plugin/src/main/resources
+2016-07-01 17:24:11,101 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-maven-plugin/src/test/java
+2016-07-01 17:24:11,101 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-maven-plugin/src/test/resources
+2016-07-01 17:24:11,211 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-spring/src/main/java
+2016-07-01 17:24:11,211 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-spring/src/test/java
+2016-07-01 17:24:11,351 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:24:11,351 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:24:11,351 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:24:11,398 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:24:11,398 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\generated-sources\jcasgen added.
+2016-07-01 17:24:11,398 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/src/main/java
+2016-07-01 17:24:11,398 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/target/generated-sources/jcasgen
+2016-07-01 17:24:11,414 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/src/test/java
+2016-07-01 17:24:11,414 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-legacy-support/target/generated-sources/jcasgen
+2016-07-01 17:24:11,414 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /uimafit-legacy-support/src/test/resources
+2016-07-01 17:24:11,476 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-cpe/src/main/java
+2016-07-01 17:24:11,476 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uimafit-cpe/src/test/java
+2016-07-01 17:24:12,692 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2016-07-01 17:24:19,131 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:19,131 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:24:19,224 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:24:19,224 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:24:19,240 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:24:19,414 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Output going to 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\generated-sources\jcasgen'
+2016-07-01 17:24:19,430 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Reading the XML TAE descriptor, and creating types, for xml input file 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\jcasgen\typesystem.xml'.
+2016-07-01 17:24:19,492 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.AnalyzedText'.
+2016-07-01 17:24:19,508 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.AnalyzedText_Type'.
+2016-07-01 17:24:19,508 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Sentence'.
+2016-07-01 17:24:19,523 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Sentence_Type'.
+2016-07-01 17:24:19,539 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Token'.
+2016-07-01 17:24:19,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Token_Type'.
+2016-07-01 17:24:19,570 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:19,570 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-07-01 17:24:19,773 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\generated-sources\jcasgen added.
+2016-07-01 17:24:20,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:20,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\src\main\resources
+2016-07-01 17:24:20,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:20,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\src\test\resources
+2016-07-01 17:24:22,198 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:22,198 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2016-07-01 17:24:22,448 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:22,448 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:24:24,590 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:24,590 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\main\resources
+2016-07-01 17:24:24,637 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:24:24,652 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:24:24,652 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:24:24,652 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Output going to 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\generated-sources\jcasgen'
+2016-07-01 17:24:24,668 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Reading the XML TAE descriptor, and creating types, for xml input file 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\jcasgen\typesystem.xml'.
+2016-07-01 17:24:24,699 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.AnalyzedText'.
+2016-07-01 17:24:24,715 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.AnalyzedText_Type'.
+2016-07-01 17:24:24,731 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Sentence'.
+2016-07-01 17:24:24,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Sentence_Type'.
+2016-07-01 17:24:24,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Token'.
+2016-07-01 17:24:24,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Replacing: 'org.apache.uima.fit.type.Token_Type'.
+2016-07-01 17:24:24,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:24,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2016-07-01 17:24:24,887 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\generated-sources\jcasgen added.
+2016-07-01 17:24:25,496 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:25,496 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:24:25,637 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.3/maven-plugin-tools-annotations-3.3.pom
+2016-07-01 17:24:25,684 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.3/maven-plugin-tools-annotations-3.3.pom
+2016-07-01 17:24:25,731 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2016-07-01 17:24:25,777 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2016-07-01 17:24:25,871 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.3/maven-plugin-tools-api-3.3.pom
+2016-07-01 17:24:25,912 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.3/maven-plugin-tools-api-3.3.pom
+2016-07-01 17:24:25,939 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.pom
+2016-07-01 17:24:25,986 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.pom
+2016-07-01 17:24:26,095 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.1/plexus-archiver-2.1.1.pom
+2016-07-01 17:24:26,127 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.1/plexus-archiver-2.1.1.pom
+2016-07-01 17:24:26,189 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.3/plexus-io-2.0.3.pom
+2016-07-01 17:24:26,220 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.3/plexus-io-2.0.3.pom
+2016-07-01 17:24:26,990 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom
+2016-07-01 17:24:27,054 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom
+2016-07-01 17:24:27,105 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.3/maven-plugin-tools-generators-3.3.pom
+2016-07-01 17:24:27,199 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.3/maven-plugin-tools-generators-3.3.pom
+2016-07-01 17:24:27,495 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.pom
+2016-07-01 17:24:27,527 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.pom
+2016-07-01 17:24:27,574 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.pom
+2016-07-01 17:24:27,605 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.pom
+2016-07-01 17:24:27,636 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1.2/doxia-sink-api-1.1.2.pom
+2016-07-01 17:24:27,667 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1.2/doxia-sink-api-1.1.2.pom
+2016-07-01 17:24:27,683 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1.2/doxia-1.1.2.pom
+2016-07-01 17:24:27,745 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1.2/doxia-1.1.2.pom
+2016-07-01 17:24:27,808 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1.2/doxia-logging-api-1.1.2.pom
+2016-07-01 17:24:27,855 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1.2/doxia-logging-api-1.1.2.pom
+2016-07-01 17:24:27,886 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.pom
+2016-07-01 17:24:27,933 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.pom
+2016-07-01 17:24:27,980 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+2016-07-01 17:24:27,995 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+2016-07-01 17:24:28,027 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-07-01 17:24:28,058 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+2016-07-01 17:24:28,089 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/1/apache-1.pom
+2016-07-01 17:24:28,105 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/1/apache-1.pom
+2016-07-01 17:24:28,152 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2016-07-01 17:24:28,230 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2016-07-01 17:24:28,253 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2016-07-01 17:24:28,302 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2016-07-01 17:24:28,321 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2016-07-01 17:24:28,352 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2016-07-01 17:24:28,383 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.pom
+2016-07-01 17:24:28,414 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.pom
+2016-07-01 17:24:28,461 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.1.2/doxia-sitetools-1.1.2.pom
+2016-07-01 17:24:28,492 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.1.2/doxia-sitetools-1.1.2.pom
+2016-07-01 17:24:28,524 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.pom
+2016-07-01 17:24:28,555 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.pom
+2016-07-01 17:24:28,617 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.pom
+2016-07-01 17:24:28,649 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.pom
+2016-07-01 17:24:28,680 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.1.2/doxia-modules-1.1.2.pom
+2016-07-01 17:24:28,711 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.1.2/doxia-modules-1.1.2.pom
+2016-07-01 17:24:28,742 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.pom
+2016-07-01 17:24:28,758 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.pom
+2016-07-01 17:24:28,789 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2016-07-01 17:24:28,821 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2016-07-01 17:24:28,852 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.2.0/commons-validator-1.2.0.pom
+2016-07-01 17:24:28,883 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.2.0/commons-validator-1.2.0.pom
+2016-07-01 17:24:28,899 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom
+2016-07-01 17:24:28,946 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom
+2016-07-01 17:24:28,977 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.pom
+2016-07-01 17:24:29,012 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.pom
+2016-07-01 17:24:29,034 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.6/commons-digester-1.6.pom
+2016-07-01 17:24:29,065 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.6/commons-digester-1.6.pom
+2016-07-01 17:24:29,081 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.6/commons-beanutils-1.6.pom
+2016-07-01 17:24:29,112 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.6/commons-beanutils-1.6.pom
+2016-07-01 17:24:29,143 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0/commons-logging-1.0.pom
+2016-07-01 17:24:29,175 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0/commons-logging-1.0.pom
+2016-07-01 17:24:29,206 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.0/commons-collections-2.0.pom
+2016-07-01 17:24:29,253 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.0/commons-collections-2.0.pom
+2016-07-01 17:24:29,284 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.1/commons-collections-2.1.pom
+2016-07-01 17:24:29,300 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.1/commons-collections-2.1.pom
+2016-07-01 17:24:29,331 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2016-07-01 17:24:29,362 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2016-07-01 17:24:29,425 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.0.2/xml-apis-2.0.2.pom
+2016-07-01 17:24:29,456 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/2.0.2/xml-apis-2.0.2.pom
+2016-07-01 17:24:29,487 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.3/maven-plugin-tools-java-3.3.pom
+2016-07-01 17:24:29,503 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.3/maven-plugin-tools-java-3.3.pom
+2016-07-01 17:24:29,534 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.3/maven-plugin-tools-beanshell-3.3.pom
+2016-07-01 17:24:29,581 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.3/maven-plugin-tools-beanshell-3.3.pom
+2016-07-01 17:24:29,596 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/1.3.0/bsh-1.3.0.pom
+2016-07-01 17:24:29,628 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/1.3.0/bsh-1.3.0.pom
+2016-07-01 17:24:29,659 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.3/maven-plugin-tools-model-3.3.pom
+2016-07-01 17:24:29,690 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.3/maven-plugin-tools-model-3.3.pom
+2016-07-01 17:24:29,784 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.3/maven-plugin-tools-annotations-3.3.jar
+2016-07-01 17:24:29,956 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-annotations/3.3/maven-plugin-tools-annotations-3.3.jar
+2016-07-01 17:24:29,987 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.jar
+2016-07-01 17:24:30,096 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.jar
+2016-07-01 17:24:30,128 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.1/plexus-archiver-2.1.1.jar
+2016-07-01 17:24:30,237 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.1/plexus-archiver-2.1.1.jar
+2016-07-01 17:24:30,268 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.3/plexus-io-2.0.3.jar
+2016-07-01 17:24:30,300 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.3/plexus-io-2.0.3.jar
+2016-07-01 17:24:30,315 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar
+2016-07-01 17:24:30,440 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar
+2016-07-01 17:24:30,487 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+2016-07-01 17:24:30,518 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+2016-07-01 17:24:30,534 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar
+2016-07-01 17:24:30,612 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar
+2016-07-01 17:24:30,643 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar
+2016-07-01 17:24:30,675 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar
+2016-07-01 17:24:30,690 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar
+2016-07-01 17:24:30,831 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar
+2016-07-01 17:24:30,862 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar
+2016-07-01 17:24:31,018 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar
+2016-07-01 17:24:31,034 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.jar
+2016-07-01 17:24:31,112 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.jar
+2016-07-01 17:24:31,128 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar
+2016-07-01 17:24:31,190 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar
+2016-07-01 17:24:31,221 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.3/maven-plugin-tools-api-3.3.jar
+2016-07-01 17:24:31,300 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-api/3.3/maven-plugin-tools-api-3.3.jar
+2016-07-01 17:24:31,315 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.3/maven-plugin-tools-generators-3.3.jar
+2016-07-01 17:24:31,429 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.3/maven-plugin-tools-generators-3.3.jar
+2016-07-01 17:24:31,444 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.jar
+2016-07-01 17:24:31,523 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.jar
+2016-07-01 17:24:31,554 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar
+2016-07-01 17:24:31,585 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar
+2016-07-01 17:24:31,601 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar
+2016-07-01 17:24:31,648 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar
+2016-07-01 17:24:31,679 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar
+2016-07-01 17:24:31,804 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar
+2016-07-01 17:24:31,819 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.2.0/commons-validator-1.2.0.jar
+2016-07-01 17:24:31,851 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.2.0/commons-validator-1.2.0.jar
+2016-07-01 17:24:31,866 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar
+2016-07-01 17:24:31,929 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar
+2016-07-01 17:24:31,944 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.6/commons-digester-1.6.jar
+2016-07-01 17:24:31,991 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.6/commons-digester-1.6.jar
+2016-07-01 17:24:32,007 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar
+2016-07-01 17:24:32,101 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar
+2016-07-01 17:24:32,116 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2016-07-01 17:24:32,148 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2016-07-01 17:24:32,179 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.3/maven-plugin-tools-java-3.3.jar
+2016-07-01 17:24:32,226 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-java/3.3/maven-plugin-tools-java-3.3.jar
+2016-07-01 17:24:32,241 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.3/maven-plugin-tools-beanshell-3.3.jar
+2016-07-01 17:24:32,335 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-beanshell/3.3/maven-plugin-tools-beanshell-3.3.jar
+2016-07-01 17:24:32,351 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/1.3.0/bsh-1.3.0.jar
+2016-07-01 17:24:32,398 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/1.3.0/bsh-1.3.0.jar
+2016-07-01 17:24:32,413 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.3/maven-plugin-tools-model-3.3.jar
+2016-07-01 17:24:32,554 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-model/3.3/maven-plugin-tools-model-3.3.jar
+2016-07-01 17:24:32,585 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2016-07-01 17:24:32,663 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2016-07-01 17:24:32,679 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar
+2016-07-01 17:24:32,741 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar
+2016-07-01 17:24:32,773 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+2016-07-01 17:24:32,851 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+2016-07-01 17:24:42,723 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to read mojo metadata.
+2016-07-01 17:24:42,723 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Applying mojo extractor for language: java-annotations
+2016-07-01 17:24:43,504 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Deprecated @component for project field in org.apache.uima.fit.maven.EnhanceMojo.: replace with @parameter name="${project}" @readonly
+2016-07-01 17:24:43,520 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Deprecated @component for project field in org.apache.uima.fit.maven.GenerateDescriptorsMojo.: replace with @parameter name="${project}" @readonly
+2016-07-01 17:24:43,535 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Mojo extractor for language: java-annotations found 2 mojo descriptors.
+2016-07-01 17:24:44,886 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:44,886 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:24:45,245 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:45,245 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\src\main\resources
+2016-07-01 17:24:45,261 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:45,277 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\src\test\resources
+2016-07-01 17:24:52,169 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:52,169 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-01 17:24:52,404 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:24:52,404 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:24:52,419 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:24:52,576 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:24:52,576 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:52,591 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-07-01 17:24:52,591 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\generated-sources\jcasgen added.
+2016-07-01 17:24:52,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:52,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\main\resources
+2016-07-01 17:24:52,841 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:24:52,841 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:24:52,841 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:24:52,857 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:24:52,857 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:24:52,857 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2016-07-01 17:24:52,857 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\generated-sources\jcasgen added.
+2016-07-01 17:27:16,782 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-examples
+2016-07-01 17:27:16,783 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-07-01 17:28:01,995 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:28:02,010 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2016-07-01 17:28:02,010 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:28:02,010 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-07-01 17:31:51,819 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-examples
+2016-07-01 17:31:51,819 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-07-01 17:32:09,111 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:32:09,127 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2016-07-01 17:32:09,127 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:32:09,127 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:35:59,068 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:35:59,068 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:35:59,271 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:35:59,287 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:35:59,287 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:35:59,365 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:35:59,365 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:35:59,365 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2016-07-01 17:35:59,506 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-core\target\generated-sources\jcasgen added.
+2016-07-01 17:36:00,318 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:00,318 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\src\main\resources
+2016-07-01 17:36:00,318 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:00,318 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-cpe\src\test\resources
+2016-07-01 17:36:01,377 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:01,408 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2016-07-01 17:36:01,611 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:01,611 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:36:03,509 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:03,509 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\main\resources
+2016-07-01 17:36:03,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\AnalyzedText.xml'
+2016-07-01 17:36:03,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Sentence.xml'
+2016-07-01 17:36:03,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Found descriptor 'C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\src\test\resources\org\apache\uima\fit\type\Token.xml'
+2016-07-01 17:36:03,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JCasGen: Skipped, since no type system changes were detected
+2016-07-01 17:36:03,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:03,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2016-07-01 17:36:03,823 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Test Source directory: C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-legacy-support\target\generated-sources\jcasgen added.
+2016-07-01 17:36:04,670 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:04,670 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:36:04,702 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:04,702 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:36:05,186 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:05,186 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\src\main\resources
+2016-07-01 17:36:05,202 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:05,202 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-spring\src\test\resources
+2016-07-01 17:36:16,277 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-examples
+2016-07-01 17:36:16,279 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-07-01 17:36:58,928 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:58,944 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2016-07-01 17:36:58,944 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-01 17:36:58,959 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-07-01 17:45:09,803 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Neues Konto\Documents\GitHub\uima-uimafit\uimafit-docbook
+2016-07-01 17:45:09,803 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
