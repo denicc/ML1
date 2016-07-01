@@ -1,0 +1,61 @@
+package wikidata.connection;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+import org.apache.jena.query.Query;
+import org.apache.jena.query.QueryException;
+import org.apache.jena.query.QueryExecution;
+import org.apache.jena.query.QueryExecutionFactory;
+import org.apache.jena.query.QueryFactory;
+import org.apache.jena.query.ResultSet;
+import org.apache.jena.query.ResultSetFormatter;
+
+public class GetSPARQLData {
+
+	
+	public static void main(String[] args) throws Exception {
+
+		String queryStringOld;
+		String queryString;
+		
+		queryString = "SELECT "
+				+ "?state ?stateLabel "
+				+ "?companies "
+				+ "?population "
+				+ "(?companies/?population*1000000 AS ?companiesPerM) "
+				+ "WHERE "
+				+ "{ "
+				+ "{ SELECT ?state (count(*) as ?companies) WHERE { "
+				+ "{SELECT DISTINCT ?company ?state WHERE { "
+				+ "?state wdt:P31 wd:Q1221156 . "
+				+ "?company wdt:P31/wdt:P279* wd:Q4830453 . "
+				+ "?company wdt:P159/wdt:P131* ?state . "
+				+ "FILTER NOT EXISTS{ ?company wdt:P576 ?date } # don't count dissolved companies "
+				+ "} "
+				+ "} "
+				+ "} GROUP BY ?state  } "
+				+ "?state wdt:P1082 ?population "
+				+ "SERVICE wikibase:label { bd:serviceParam wikibase:language 'de' } "
+						+ "} "
+						+ "ORDER BY DESC(?companiesPerM)";
+		
+        Query query = QueryFactory.create(queryString);
+        QueryExecution qexec = QueryExecutionFactory.sparqlService("https://query.wikidata.org/sparql", queryString);
+        try {
+            ResultSet results = qexec.execSelect();
+            ResultSetFormatter.out(System.out, results, query);
+        } catch (Exception ex) {
+            System.out.println(ex.getMessage());
+        } finally {
+            qexec.close();
+        }
+		
+		
+	}
+	
+	
+	
+}

@@ -1,0 +1,23 @@
+package wikidata.connection;
+
+public class GetSPARQLData {
+
+	 String sparqlEndpoint = "http://www.ebi.ac.uk/rdf/services/atlas/sparql";
+
+	  // get expression values for uniprot acc Q16850
+	  String sparqlQuery = "" +
+	  "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n" +
+	  "PREFIX atlasterms: <http://rdf.ebi.ac.uk/terms/atlas/>" +
+	  "SELECT distinct ?expressionValue ?pvalue \n" +
+	  "WHERE { \n" +
+	  "?value rdfs:label ?expressionValue . \n" +
+	  "?value atlasterms:pValue ?pvalue . \n" +
+	  "?value atlasterms:isMeasurementOf ?probe . \n" +
+	  "?probe atlasterms:dbXref ?uniprotAccession .\n" +
+	  "} \n" +
+	  "ORDER BY ASC(?pvalue)";
+	  
+	  
+	  
+	
+}

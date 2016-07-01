@@ -1,0 +1,20 @@
+package wikidata.connection;
+
+public class GetSPARQLData {
+
+	
+	private final String USER_AGENT = "Mozilla/5.0";
+
+	public static void main(String[] args) throws Exception {
+
+		GetSPARQLData http = new GetSPARQLData();
+
+		System.out.println("Testing 1 - Send Http GET request");
+		http.sendGet();
+		
+		System.out.println("\nTesting 2 - Send Http POST request");
+		http.sendPost();
+	
+	  
+	
+}
