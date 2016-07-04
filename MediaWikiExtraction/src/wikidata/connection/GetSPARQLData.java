@@ -50,6 +50,9 @@ public class GetSPARQLData {
             
             //List Statemnts
            
+            for (int i = 0; i < results.getRowNumber(); i++) {
+				
+			}
             System.out.println(results.getRowNumber());
             System.out.println(results.getResourceModel().listNameSpaces().toString());
             

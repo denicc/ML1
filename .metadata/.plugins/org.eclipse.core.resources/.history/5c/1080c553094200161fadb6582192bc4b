@@ -1,0 +1,11 @@
+package generic.classes;
+
+public class Address {
+
+	private String street;
+	private int housenumber;
+	private String zipCode;
+	private String City;
+	
+	
+}
