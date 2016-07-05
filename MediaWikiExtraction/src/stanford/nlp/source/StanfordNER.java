@@ -59,7 +59,7 @@ public class StanfordNER {
 	 + " 50,000 runs in all recognized cricket "
 	 + " First-class, List A and Twenty20 combined)";
 	 
-	 System.out.println(identifyNER(content, "D:\\data\\model\\english.conll.4class.distsim.crf.ser.gz").toString());
+	 System.out.println(identifyNER(content, "classifiers/english.conll.4class.distsim.crf.ser.gz").toString());
 	 }
 
 	
