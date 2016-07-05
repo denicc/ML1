@@ -46,6 +46,12 @@ public class NERDemo {
 	  
 	long startTime = System.currentTimeMillis();
 
+	 File fout = new File("logging/out.xml");
+     FileOutputStream fos = new FileOutputStream(fout);
+     
+     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
+    
+	
     String serializedClassifier = "classifiers/english.all.3class.distsim.crf.ser.gz";
 
     if (args.length > 0) {
@@ -138,22 +144,22 @@ public class NERDemo {
 //      }
 //      System.out.println("---");
 //
-//      for (String str : example) {
-//        System.out.println(classifier.classifyToString(str, "xml", true));
-//      }
-//      System.out.println("---");
-      
-      
-      File out = new File("logging/out.tsv");
-      FileOutputStream fos = new FileOutputStream(out);
-      
-      BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
-      
-      	for (String str : example) {
-      		bw.write(classifier.classifyToString(str, "tsv", false));
+        for (String str : example) {
+
+        	bw.write(classifier.classifyToString(str, "xml", true));
       		bw.newLine();
-      }
-      	bw.close();
+   
+          System.out.println(classifier.classifyToString(str, "xml", true));
+         }
+        System.out.println("---");
+      
+      
+//      
+//      	for (String str : example) {
+//      		bw.write(classifier.classifyToString(str, "tsv", false));
+//      		bw.newLine();
+//      }
+//      	bw.close();
       System.out.println("---");
 
       // This gets out entities with character offsets
