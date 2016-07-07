@@ -35,7 +35,7 @@
 	<classpathentry kind="lib" path="stanfordlibs/slf4j-api.jar"/>
 	<classpathentry kind="lib" path="stanfordlibs/slf4j-simple.jar"/>
 	<classpathentry kind="lib" path="stanfordlibs/stanford-ner-resources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Neues Konto/Downloads/stanford-ner-2015-12-09/stanford-ner-3.6.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Neues Konto/Downloads/java-json.jar"/>
+	<classpathentry kind="lib" path="stanfordlibs/stanford-ner-3.6.0.jar"/>
+	<classpathentry kind="lib" path="JSONLibs/java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
