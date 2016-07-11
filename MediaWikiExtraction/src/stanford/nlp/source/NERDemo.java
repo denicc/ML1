@@ -52,7 +52,7 @@ public class NERDemo {
      BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
     
 	
-    String serializedClassifier = "classifiers/english.all.3class.distsim.crf.ser.gz";
+    String serializedClassifier = "classifiers/dewac_175m_600.crf.ser.gz";
 
     if (args.length > 0) {
       serializedClassifier = args[0];

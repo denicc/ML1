@@ -70,7 +70,7 @@ public class StanfordNER {
 			        sb.append(System.lineSeparator());
 			        line = br.readLine();
 			        
-			   	 System.out.println(identifyNER(line, "classifiers/english.conll.4class.distsim.crf.ser.gz").toString());
+			   	 System.out.println(identifyNER(line, "classifiers/dewac_175m_600.crf.ser.gz").toString());
 			   	 
 			    } 
 		 } catch (IOException e) {
